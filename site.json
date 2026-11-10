@@ -1,0 +1,18 @@
+{
+  "title": "Simple, private apps for your phone",
+  "tagline": "Free Android apps that work on your device, with a step-by-step guide for each one.",
+  "developer": "varian1",
+  "baseUrl": "https://varian1.github.io/apps/",
+  "supportEmail": "support@example.com",
+  "apps": [
+    "ocrscanner",
+    "qr-barcode-toolkit",
+    "photo-image-toolkit",
+    "applock",
+    "unit-converter",
+    "taplock",
+    "text-toolkit",
+    "steady"
+  ],
+  "hidden": []
+}
