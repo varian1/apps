@@ -5,7 +5,7 @@ tagline: Offline unit converter: length, weight, temperature, cups, MPG & 90+ mo
 project: all-in-one-unit-converter
 package: io.github.varian1.unitconverter
 version: 1.0
-updated: 2026-11-10
+updated: 2026-11-11
 privacy: https://varian1.github.io/all-in-one-unit-converter/privacy.html
 ---
 

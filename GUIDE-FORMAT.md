@@ -20,11 +20,16 @@ Plain `key: value` lines between two `---` lines. No quotes, no nesting.
 ## Sections, in this order
 
 1. `## What it does`: two or three sentences, then up to four bullets.
-2. `## Get started`: first launch, permissions, first action.
-3. One `##` per task, named as the task ("Scan a page"). Numbered steps, one action each. Button names in **bold**, written exactly as on screen.
-4. `## Premium`: only if the app sells something. Say what it adds and how it is paid.
-5. `## Questions`: three to five, each a bold question on its own line and the answer on the next.
-6. `## Privacy`: one or two sentences and a link to the policy.
+2. `## What's new`: optional. Up to four bullets from the newest release notes, in plain words, and only for a release people can already install. Leave the section out when there are no release notes.
+3. `## Get started`: first launch, permissions, first action.
+4. One `##` per task, named as the task ("Scan a page"). Numbered steps, one action each. Button names in **bold**, written exactly as on screen.
+5. `## Premium`: only if the app sells something. Say what it adds and how it is paid.
+6. `## Questions`: three to five, each a bold question on its own line and the answer on the next.
+7. `## Privacy`: one or two sentences and a link to the policy.
+
+## Translations
+
+A translation is `guides/<slug>/guide.<lang>.md` (for example `guide.id.md`), with the same front matter keys, sections and picture lines as the English guide. Translate the title, tagline, headings, steps and captions. Keep button and screen names in **bold** exactly as the app shows them, and keep `name`, `project`, `package`, `version`, `updated` and `privacy` unchanged.
 
 ## Pictures
 
