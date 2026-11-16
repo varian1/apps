@@ -5,13 +5,13 @@ tagline: Scan and create QR codes and barcodes. Private, on-device, history and 
 project: QRBarcode and toolkit
 package: com.varian1.qrtoolkit
 version: 1.0.0
-updated: 2026-11-10
+updated: 2026-11-17
 privacy: https://varian1.github.io/qr-barcode-toolkit/privacy.html
 ---
 
 ## What it does
 
-QR & Barcode Toolkit scans QR codes and barcodes with your camera or from a photo, and shows what is inside before you act on it. You can also make your own QR codes and barcodes, then save them as images or share them.
+QR & Barcode Toolkit scans QR codes and barcodes with your camera or from a photo, and shows what is inside before you act on it. You can also make your own QR codes and barcodes, then save them as images or share them. The app is in 21 languages and follows your phone's language.
 
 - Codes are read on your device. Links never open by themselves.
 - No account. Your history stays on your phone.
@@ -94,7 +94,8 @@ Options with a lock are part of Premium.
 2. Turn off **Save scans to history** if you do not want scans kept.
 3. Turn **Haptic feedback** on or off.
 4. Turn on **Keep Wi-Fi passwords in history** only if you want them saved. It is off by default.
-5. Tap **Clear all history** and then **Delete all** to remove every scan and created code, including favorites.
+5. Tap **Language** to pick the app's language. By default the app follows your phone's language.
+6. Tap **Clear all history** and then **Delete all** to remove every scan and created code, including favorites.
 
 ![Settings with the Preferences, Privacy and About sections](shots/08-settings.png)
 
@@ -121,7 +122,7 @@ QR, EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, Codabar, ITF-14, PD
 Wi-Fi passwords are removed before a code is saved. To keep them, turn on **Keep Wi-Fi passwords in history** in **Settings** before you scan or create the code.
 
 **How many codes are kept?**
-The free version keeps your latest 100 scans and 100 created codes, and up to 10 favorites. Favorites are not removed when the list is full. Premium has no limit.
+The free version keeps your latest 100 scans and 100 created codes, and up to 10 favorites. **History** tells you when the free list is full, and new items then replace the oldest. Favorites are not removed when the list is full. Premium has no limit.
 
 **Is there a dark mode?**
 Yes. The app follows the light or dark theme of your phone.
