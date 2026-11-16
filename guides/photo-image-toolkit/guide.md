@@ -5,13 +5,13 @@ tagline: Compress, resize, crop, convert, collage and remove backgrounds on your
 project: photo-image-toolkit
 package: io.github.varian1.photoimagetoolkit
 version: 1.0.0
-updated: 2026-11-10
+updated: 2026-11-17
 privacy: https://varian1.github.io/photoimagetoolkit/privacy.html
 ---
 
 ## What it does
 
-Photo & Image Toolkit puts five everyday photo tools in one app: compress, resize and crop, convert, collage and background removal. Every tool works on your phone and saves a new copy, so your original photo is never changed.
+Photo & Image Toolkit puts five everyday photo tools in one app: compress, resize and crop, convert, collage and background removal. Every tool works on your phone and saves a new copy, so your original photo is never changed. The app is available in 14 languages and follows your phone's language.
 
 - No account. Photos are processed on your device and never uploaded.
 - The app only sees the photos you pick.
@@ -89,6 +89,8 @@ If the photo has transparent areas and you pick JPEG, the app warns you that the
 
 ![Remove Background screen: a mug cut out on a transparent background, with Transparent, Colour and Photo](shots/06-background.png)
 
+With Premium, you can also put the subject on a gradient.
+
 The cut-out is made on your device. The first time you use this tool, your phone may need to be online for a moment to fetch the cut-out model through Google Play services.
 
 ## Open Settings
@@ -104,9 +106,9 @@ The cut-out is made on your device. The first time you use this tool, your phone
 Premium is one payment, not a subscription. Tap **★ Go Premium** on the home screen, or **Upgrade to Premium** in **Settings**. It gives you:
 
 - No ads.
-- Batch processing with the **Batch** button: compress or convert up to 20 photos at once, or cut out up to 10.
+- Batch processing with the **Batch** button: compress or convert up to 20 photos at once, or cut out up to 10. You can also resize many photos at once.
 - High-resolution export: up to 8192 px on the longest side instead of 4096 px, up to 4096 px instead of 2048 px for cut-outs, and larger collages.
-- **Smooth edges** for softer cut-out edges in **Remove Background**.
+- **Smooth edges** for softer cut-out edges in **Remove Background**, and gradient background templates.
 - Extra collage layouts.
 
 If you bought Premium before, tap **Restore purchases** in **Settings** or on the Premium screen.

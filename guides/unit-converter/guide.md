@@ -4,17 +4,18 @@ name: Unit Converter
 tagline: Offline unit converter: length, weight, temperature, cups, MPG & 90+ more units
 project: all-in-one-unit-converter
 package: io.github.varian1.unitconverter
-version: 1.0
-updated: 2026-11-11
+version: 1.2
+updated: 2026-11-17
 privacy: https://varian1.github.io/all-in-one-unit-converter/privacy.html
 ---
 
 ## What it does
 
-Unit Converter changes a measurement from one unit to another. Type a value, pick two units and the result appears as you type. It covers 14 categories and 96 units, from length, weight and temperature to cooking volumes, fuel consumption and data storage.
+Unit Converter changes a measurement from one unit to another. Type a value, pick two units and the result appears as you type. It covers 15 categories, from length, weight and temperature to cooking volumes, fuel consumption and data storage.
 
 - Conversions run on your device and work without internet.
 - No account. Your favorites and history stay on your phone.
+- Converts cups and spoons to grams for 20 common ingredients. These results are approximate.
 - Free with small banner ads on Browse and History only. A one-time Premium purchase removes them.
 
 ## Get started
@@ -44,8 +45,8 @@ Each result you copy is also saved to **History**.
 
 ## Browse the categories
 
-1. Tap **Browse** to see all 14 categories and how many units each one has.
-2. Type in **Search categories** to filter the list by category name or description, for example "Speed".
+1. Tap **Browse** to see all 15 categories and how many units each one has.
+2. Type in the search box to find a category or a unit by its name or symbol, for example "Speed" or "mph".
 3. Tap a category to open it in the converter.
 
 ![Browse categories with the search box; saved categories show a star](shots/03-browse.png)
@@ -74,6 +75,13 @@ Each result you copy is also saved to **History**.
 2. Under **Appearance**, choose **System**, **Light** or **Dark**. **System** follows your phone.
 
 ![The Convert tab in the dark theme](shots/06-dark.png)
+
+## Change the language
+
+1. Tap **Settings**.
+2. Open the language setting and pick a language. The first choice, System default, follows your phone's language.
+
+Category, unit and ingredient names change with the language. Search in **Browse** finds names in your language and in English.
 
 ## Premium
 
