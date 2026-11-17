@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://varian1.github.io/apps/sitemap.xml
