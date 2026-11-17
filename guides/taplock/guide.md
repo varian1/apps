@@ -4,8 +4,8 @@ name: TapLock
 tagline: Lock your phone with one tap. Fingerprint and face unlock keep working.
 project: LOCKAPPONLY
 package: io.github.varian1.screenlock
-version: 1.0.0
-updated: 2026-11-10
+version: 1.1.0
+updated: 2026-11-17
 privacy: https://varian1.github.io/LockAppOnlyWeb/privacy.html
 ---
 
@@ -62,14 +62,22 @@ With this way of locking, Android asks for your PIN, pattern or password the nex
 
 ![Home screen with the round Lock button and the line "Ready. Fingerprint and face unlock stay on."](shots/01-home.png)
 
-Now and then a full-screen ad opens when you tap **Lock**. Close it and the screen locks.
-
 ## Use dark mode
 
 1. Turn on the dark theme in your phone's Android settings.
 2. Open TapLock. It follows your phone and switches to dark by itself. There is no separate setting in the app.
 
 ![The TapLock home screen in dark mode](shots/03-dark-mode.png)
+
+## Change the language
+
+1. On the home screen, tap the settings icon to open **Lock setup**.
+2. Open the language picker.
+3. Pick one of the 31 languages, or keep the system default so TapLock follows your phone's language.
+
+![The language picker with the list of languages](shots/06-language.png)
+
+Arabic, Urdu and Hebrew are shown right to left. On Android 13 or newer, you can also change TapLock's language in Android's app language settings.
 
 ## Turn a lock method off or uninstall
 
@@ -93,6 +101,9 @@ Open **Lock setup**, tap **Turn off Device Admin**, then uninstall.
 
 **Which Android version do I need?**
 Accessibility lock needs Android 9 or newer. On older versions, use Device Admin lock.
+
+**Can I use TapLock in my own language?**
+Yes. TapLock comes in 31 languages. Pick yours on **Lock setup**, or keep the system default.
 
 ## Privacy
 
