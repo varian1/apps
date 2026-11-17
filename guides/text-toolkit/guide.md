@@ -5,7 +5,7 @@ tagline: Count words, change case, clean, sort and compare text offline on your 
 project: text-toolkit
 package: io.github.varian1.texttoolkit
 version: 1.0
-updated: 2026-11-10
+updated: 2026-11-18
 privacy: https://varian1.github.io/text-toolkit/privacy.html
 ---
 
@@ -25,6 +25,8 @@ Text Toolkit is one screen with nine text tools. Type or paste text into the box
 3. Pick a tool in the row under the box: **Counter**, **Case**, **Clean**, **Lines**, **Replace**, **Reverse**, **Encode**, **Format** or **Diff**. Swipe the row sideways to see them all.
 
 ![Main screen: the YOUR TEXT box with Paste, Sample and Clear, the row of tools, and the Counter numbers](shots/01-home.png)
+
+The app uses your phone's language. It is available in 11 languages: English, Spanish, Portuguese, German, French, Hindi, Indonesian, Arabic, Italian, Russian and Turkish.
 
 ## Count words and characters
 
@@ -48,9 +50,10 @@ The numbers change as you type. Reading time is based on 200 words a minute.
 2. Tap one action:
    - **Clean all**: removes tabs, repeated spaces, spaces at the ends of lines, empty lines and repeated lines in one go.
    - **Extra spaces**, **Trim lines**, **No empty lines**, **No duplicates** or **Remove tabs**: does only that one thing.
+   - The line-break action: removes the line breaks from your text.
 3. Read the result under **CLEANED RESULT**. Your own text in the box stays as it was.
 
-![Clean tool: the six cleaning buttons and the CLEANED RESULT card](shots/03-clean.png)
+![Clean tool: the cleaning buttons and the CLEANED RESULT card](shots/03-clean.png)
 
 ## Sort or reverse
 
@@ -90,10 +93,14 @@ The search looks for exactly what you type. It does not use patterns or wildcard
 2. Tap **Share** to send it to another app.
 3. Tap **Use input** to move the result into **YOUR TEXT**, so you can run another tool on it.
 
+## Premium
+
+Every tool is free. One optional one-time purchase removes the ads. You pay once; it is not a subscription.
+
 ## Questions
 
 **Does it work offline?**
-Yes. All nine tools run on your phone. Only ads use a network connection.
+Yes. All nine tools run on your phone. Only ads and the purchase to remove them use a network connection.
 
 **Is my text saved?**
 No. The app keeps your text only while it is open. Copy or share a result you want to keep.

@@ -5,7 +5,7 @@ tagline: See one amount in all your saved currencies, even when you're offline
 project: currency-converter
 package: io.github.varian1.currencyconverter
 version: 1.0.0
-updated: 2026-11-17
+updated: 2026-11-18
 privacy: 
 ---
 
@@ -16,7 +16,7 @@ Currency Converter turns one amount into all your saved currencies at once. It i
 - Convert one amount into many currencies at the same time.
 - Search more than 150 currencies by name or code.
 - Use the built-in calculator, then send the result to the converter.
-- Pick your rate source and choose a light or dark theme.
+- Pick your rate source, choose a light or dark theme, and use the app in 16 languages.
 
 ## Get started
 
