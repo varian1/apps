@@ -93,9 +93,9 @@ footer p { margin: 4px 0; }
 }
 
 .top nav { display: flex; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
-.lang { margin-left: 16px; padding-left: 16px; border-left: 1px solid var(--line); }
-.lang a { margin-left: 0; }
-.lang a + a { margin-left: 10px; }
+.lang { margin-inline-start: 16px; padding-inline-start: 16px; border-inline-start: 1px solid var(--line); }
+.lang a { margin-inline-start: 0; }
+.lang a + a { margin-inline-start: 10px; }
 
 .qr { margin-left: auto; flex: none; width: 132px; text-align: center; display: none; }
 .qr svg { width: 132px; height: 132px; display: block; border-radius: 10px; border: 1px solid var(--line); background: #fff; }

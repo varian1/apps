@@ -17,7 +17,7 @@
     "virtual-button"
   ],
   "hidden": [],
-  "languages": [],
+  "languages": ["id","es","pt","fr","de","it","nl","tr","vi","th","ms","tl","hi","ar","ru","ja","ko","zh"],
   "translations": {},
   "strings": {}
 }
