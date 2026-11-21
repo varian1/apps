@@ -1,7 +1,7 @@
 ---
-title: OCR Scanner: Ảnh sang văn bản PDF
+title: OCR Scanner: Ảnh sang văn bản
 name: OCRScanner
-tagline: Quét tài liệu thành văn bản chỉnh sửa được ngay trên máy. Tìm, sao chép, chia sẻ PDF.
+tagline: Quét tài liệu thành văn bản chỉnh sửa được trên máy. Tìm, sao chép, chia sẻ PDF.
 project: OCRScanner
 package: io.github.varian1.ocrscanner
 version: 1.2.0

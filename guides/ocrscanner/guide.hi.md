@@ -1,7 +1,7 @@
 ---
-title: OCR स्कैनर: इमेज से टेक्स्ट PDF
+title: OCR स्कैनर: इमेज से टेक्स्ट
 name: OCRScanner
-tagline: दस्तावेज़ को फ़ोन पर ही एडिट होने वाले टेक्स्ट में बदलें। खोजें, कॉपी करें, PDF शेयर करें।
+tagline: दस्तावेज़ को फ़ोन पर एडिट होने वाले टेक्स्ट में बदलें। खोजें, कॉपी करें।
 project: OCRScanner
 package: io.github.varian1.ocrscanner
 version: 1.2.0

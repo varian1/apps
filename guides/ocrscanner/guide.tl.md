@@ -1,7 +1,7 @@
 ---
-title: OCR Scanner: Larawan sa Text PDF
+title: OCR Scanner: Larawan sa Text
 name: OCRScanner
-tagline: I-scan ang dokumento at gawing text na puwedeng i-edit. Hanapin, kopyahin, i-share bilang PDF.
+tagline: I-scan ang dokumento at gawing text na puwedeng i-edit. Hanapin, kopyahin.
 project: OCRScanner
 package: io.github.varian1.ocrscanner
 version: 1.2.0

@@ -1,7 +1,7 @@
 ---
 title: Compressor e Editor de Fotos
 name: Photo & Image Toolkit
-tagline: Comprima, redimensione, corte, converta, faça colagens e remova fundos no celular.
+tagline: Comprima, redimensione, corte, converta, faça colagens e remova fundos.
 project: photo-image-toolkit
 package: io.github.varian1.photoimagetoolkit
 version: 1.0.0

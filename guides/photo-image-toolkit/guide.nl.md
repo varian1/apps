@@ -1,7 +1,7 @@
 ---
 title: Foto's Verkleinen & Bewerken
 name: Photo & Image Toolkit
-tagline: Foto's comprimeren, verkleinen, bijsnijden, converteren, collages maken en achtergrond wissen.
+tagline: Foto's comprimeren, verkleinen, bijsnijden, converteren en collages maken.
 project: photo-image-toolkit
 package: io.github.varian1.photoimagetoolkit
 version: 1.0.0

@@ -1,5 +1,5 @@
 ---
-title: OCR Scanner: Imagen a Texto y PDF
+title: OCR Scanner: Imagen a Texto
 name: OCRScanner
 tagline: Escanea documentos a texto editable en tu móvil. Busca, copia y comparte en PDF.
 project: OCRScanner

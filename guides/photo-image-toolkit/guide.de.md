@@ -1,7 +1,7 @@
 ---
-title: Foto komprimieren & verkleinern
+title: Fotos komprimieren & skalieren
 name: Photo & Image Toolkit
-tagline: Fotos komprimieren, zuschneiden, umwandeln, Collagen erstellen, Hintergrund entfernen.
+tagline: Fotos komprimieren, zuschneiden, umwandeln, Collagen, Hintergrund entfernen.
 project: photo-image-toolkit
 package: io.github.varian1.photoimagetoolkit
 version: 1.0.0

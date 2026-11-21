@@ -1,7 +1,7 @@
 ---
-title: OCR Scanner: Gambar ke Teks PDF
+title: OCR Scanner: Gambar ke Teks
 name: OCRScanner
-tagline: Pindai dokumen jadi teks yang bisa diedit di perangkat. Cari, salin, bagikan sebagai PDF.
+tagline: Pindai dokumen jadi teks yang bisa diedit. Cari, salin, bagikan sebagai PDF.
 project: OCRScanner
 package: io.github.varian1.ocrscanner
 version: 1.2.0

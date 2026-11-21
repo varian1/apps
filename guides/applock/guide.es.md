@@ -1,7 +1,7 @@
 ---
 title: AppLock: Bloquear apps con PIN
 name: AppLock
-tagline: Bloquea cualquier app con PIN, patrón, contraseña o huella. Funciona sin conexión.
+tagline: Bloquea apps con PIN, patrón, contraseña o huella. Funciona sin conexión.
 project: AppLock Without Dashboad
 package: io.github.varian1.applock
 version: 1.0

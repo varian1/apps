@@ -1,5 +1,5 @@
 ---
-title: OCR Tarayıcı: Resimden Metne PDF
+title: OCR Tarayıcı: Resimden Metin
 name: OCRScanner
 tagline: Belgeleri cihazında düzenlenebilir metne çevir. Ara, kopyala, PDF olarak paylaş.
 project: OCRScanner

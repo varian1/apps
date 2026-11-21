@@ -1,7 +1,7 @@
 ---
 title: Fotoğraf Küçült, Boyutlandır
 name: Photo & Image Toolkit
-tagline: Telefonunuzda fotoğraf sıkıştırın, boyutlandırın, kırpın, dönüştürün, kolaj yapın.
+tagline: Fotoğrafları sıkıştırın, boyutlandırın, kırpın, dönüştürün, kolaj yapın.
 project: photo-image-toolkit
 package: io.github.varian1.photoimagetoolkit
 version: 1.0.0

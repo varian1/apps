@@ -1,5 +1,5 @@
 ---
-title: Foto Toolkit: comprimi e ridimensiona
+title: Foto: comprimi e ridimensiona
 name: Photo & Image Toolkit
 tagline: Comprimi, ridimensiona, ritaglia, converti e crea collage di foto dal telefono.
 project: photo-image-toolkit

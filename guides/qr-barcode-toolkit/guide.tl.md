@@ -1,7 +1,7 @@
 ---
 title: QR Scanner at Generator
 name: QR & Barcode Toolkit
-tagline: I-scan at gumawa ng QR code at barcode. Pribado, sa device lang, may history at export.
+tagline: I-scan at gumawa ng QR code at barcode. Pribado, sa device lang, may history.
 project: QRBarcode and toolkit
 package: com.varian1.qrtoolkit
 version: 1.0.0

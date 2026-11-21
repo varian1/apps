@@ -1,7 +1,7 @@
 ---
 title: Comprimir Fotos y Imágenes
 name: Photo & Image Toolkit
-tagline: Comprime, redimensiona, recorta, convierte, haz collages y quita fondos en tu móvil.
+tagline: Comprime, redimensiona, recorta, convierte, haz collages y quita fondos.
 project: photo-image-toolkit
 package: io.github.varian1.photoimagetoolkit
 version: 1.0.0

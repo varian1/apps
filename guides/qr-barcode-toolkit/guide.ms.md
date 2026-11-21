@@ -1,7 +1,7 @@
 ---
 title: Pengimbas QR & Kod Bar
 name: QR & Barcode Toolkit
-tagline: Imbas dan cipta kod QR dan kod bar. Peribadi, dalam peranti, ada sejarah dan eksport.
+tagline: Imbas dan cipta kod QR dan kod bar. Peribadi, atas peranti, dengan sejarah.
 project: QRBarcode and toolkit
 package: com.varian1.qrtoolkit
 version: 1.0.0
