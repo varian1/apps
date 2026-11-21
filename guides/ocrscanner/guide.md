@@ -1,11 +1,11 @@
 ---
-title: OCRScanner: Scan to Text
+title: OCR Scanner: Image to Text PDF
 name: OCRScanner
 tagline: Scan documents to editable text on your device. Search, copy and share as PDF.
 project: OCRScanner
 package: io.github.varian1.ocrscanner
-version: 1.0
-updated: 2026-11-10
+version: 1.2.0
+updated: 2026-11-21
 privacy: https://varian1.github.io/ocrscanner/privacy.html
 ---
 
@@ -15,6 +15,7 @@ OCRScanner photographs a paper page, straightens it and reads the text on your p
 
 - Text recognition runs on your device and works without internet.
 - No account. Your scans stay on your phone and are never uploaded.
+- Import a PDF, or share images from other apps on Android.
 - Free with ads. A one-time Premium purchase removes ads and adds more languages.
 
 ## Get started
@@ -37,6 +38,24 @@ OCRScanner photographs a paper page, straightens it and reads the text on your p
 
 To scan several pages into one document, open the scan later, tap **⋯** and choose **Add pages**.
 
+## Import a PDF
+
+OCRScanner reads up to 20 pages of one PDF, or 50 with Premium. Every page is read as an image, so text already inside the PDF is not used.
+
+1. Choose one PDF in your phone's file picker. No storage permission is needed.
+2. On **Review**, check the pages. If the PDF is longer than the limit, Review tells you how many pages were left out.
+3. Tap **Recognize text**.
+
+## Share images from other apps
+
+This works on Android.
+
+1. In your gallery or another app, select up to 20 images and tap share.
+2. Choose OCRScanner.
+3. Unlock the app if **App lock** is on. The images open on **Review** as a new scan.
+
+If you have unsaved pages open, the app asks before it replaces them.
+
 ## Read, edit and copy the text
 
 1. After recognition, **Result** shows the page on top and its text below.
@@ -55,6 +74,8 @@ To scan several pages into one document, open the scan later, tap **⋯** and ch
 
 ![Searching for the word "lighting" finds the scan that contains it](shots/04-search.png)
 
+To see only the scans with one tag, tap that tag under the search field. Search then looks only inside those scans. Tap the tag again to see all scans.
+
 ## Share or export
 
 1. Open a scan and tap the share button.
@@ -70,16 +91,25 @@ To scan several pages into one document, open the scan later, tap **⋯** and ch
 
 1. Open a scan and tap **⋯**.
 2. Choose **Rename** to change the title, or **Edit tags** to add tags separated by commas.
-3. Choose **Delete scan** to remove it from your phone.
+3. Choose **Recognize text again** to read the pages again in another text language. Any text you edited is replaced.
+4. Choose **Delete scan** to remove it from your phone.
+
+## Back up and restore your scans
+
+1. On **Scans**, tap the settings icon in the top right.
+2. Under **Storage**, tap **Back up scans**. All your scans are packed into one file.
+3. Pick where to save or send the file. The file is not encrypted, so keep it somewhere safe.
+4. On a new phone, tap **Restore from backup** and choose the file. The app asks before it replaces every scan on the phone with the ones in the backup.
 
 ## Lock the app and change settings
 
 1. On **Scans**, tap the settings icon in the top right.
 2. Turn on **App lock** to require your fingerprint, face or screen lock before your scans open.
-3. Under **Text language**, pick the script of your documents. **Latin** covers English, Spanish, French, German, Indonesian and more.
-4. Choose **Image quality** (Balanced or Full) and the **Theme** (System, Light or Dark).
+3. Under **Text language (OCR)**, pick the script of your documents. **Latin** covers English, Spanish, French, German, Indonesian and more. The app suggests the one your phone's language uses.
+4. Tap **App language** to use the app in a different language from your phone.
+5. Choose **Image quality** (Balanced or Full) and the **Theme** (System, Light or Dark).
 
-![Settings: Premium, App lock, Text language and Image quality](shots/06-settings.png)
+![Settings: Premium, App lock, Text language (OCR) and Image quality](shots/06-settings.png)
 
 ## Premium
 
@@ -88,6 +118,7 @@ Premium is one payment, not a subscription. Open **Settings** and tap **See Prem
 - No ads.
 - Chinese, Japanese and Korean text, plus Hindi and other Devanagari text on Android.
 - Merging several scans into one PDF or text file.
+- Importing longer PDFs: up to 50 pages instead of 20.
 
 If you bought Premium before, tap **Restore purchase** on the Premium screen.
 
@@ -97,10 +128,10 @@ If you bought Premium before, tap **Restore purchase** on the Premium screen.
 Yes. Scanning, text recognition, search and export all run on your phone.
 
 **Where are my scans kept?**
-Only on your device. If you uninstall the app, the scans are removed with it, so export the ones you want to keep.
+Only on your device. If you uninstall the app, the scans are removed with it, so tap **Back up scans** in Settings first to keep them.
 
 **The text has mistakes. What can I do?**
-Retake the photo in good light with the page flat, try the **Magic** or **B&W** filter, and check that **Text language** matches the document. You can also fix single words with **Edit**.
+Retake the photo in good light with the page flat, try the **Magic** or **B&W** filter, and check that **Text language (OCR)** matches the document. You can also fix single words with **Edit**.
 
 **Can it read handwriting?**
 It is made for printed text. Handwriting is often read wrongly.

@@ -5,7 +5,7 @@ tagline: Scan and create QR codes and barcodes. Private, on-device, history and 
 project: QRBarcode and toolkit
 package: com.varian1.qrtoolkit
 version: 1.0.0
-updated: 2026-11-17
+updated: 2026-11-21
 privacy: https://varian1.github.io/qr-barcode-toolkit/privacy.html
 ---
 

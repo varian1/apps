@@ -3,7 +3,7 @@ title: Steady: Habit Tracker
 name: Steady
 tagline: Private habit tracker with streaks and reminders. Your data stays on your phone.
 project: steady healthy app
-package:
+package: com.varian.steady
 version: 1.0.0
 updated: 2026-11-10
 privacy:
