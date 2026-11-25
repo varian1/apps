@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25T15:48:39.808Z",
+  "updated": "2026-11-25T16:09:09.812Z",
   "languages": [
     "en",
     "id",
@@ -728,7 +728,7 @@
       "package": "io.github.varian1.speedtest",
       "live": true,
       "play": "https://play.google.com/store/apps/details?id=io.github.varian1.speedtest&referrer=utm_source%3Down_apps%26utm_medium%3Dcross_promo%26utm_campaign%3Dinternet-speed-test",
-      "icon": null,
+      "icon": "internet-speed-test/shots/icon.png",
       "name": {
         "en": "Internet Speed Test",
         "id": "Internet Speed Test",
@@ -798,7 +798,7 @@
       "package": "io.github.varian1.wifitools",
       "live": false,
       "play": null,
-      "icon": null,
+      "icon": "wifi-analyzer/shots/icon.png",
       "name": {
         "en": "Wi-Fi Tools",
         "id": "Wi-Fi Tools",
