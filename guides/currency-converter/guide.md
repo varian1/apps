@@ -4,8 +4,8 @@ name: Currency Converter
 tagline: See one amount in all your saved currencies, even when you're offline
 project: currency-converter
 package: io.github.varian1.currencyconverter
-version: 1.0.0
-updated: 2026-11-18
+version: 1.0.2
+updated: 2026-11-25
 privacy: 
 ---
 
@@ -34,6 +34,17 @@ Currency Converter turns one amount into all your saved currencies at once. It i
 The app always shows where the rates come from, the rate date and when they were downloaded.
 
 ![The Convert tab showing one amount in several currencies](shots/01-convert.png)
+
+## Share a conversion
+
+1. Open the Convert tab.
+2. Type an amount.
+3. Tap **Share**.
+4. Choose who to send it to.
+
+The message has your amount in all your saved currencies and the rate date. It can also include a link to the app. To leave the link out, turn it off in Settings under Sharing.
+
+![The Convert tab with the Share button](shots/04-share.png)
 
 ## Save your favourite currencies
 

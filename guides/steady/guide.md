@@ -4,14 +4,14 @@ name: Steady
 tagline: Private habit tracker with streaks and reminders. Your data stays on your phone.
 project: steady healthy app
 package: com.varian.steady
-version: 1.0.0
-updated: 2026-11-10
-privacy:
+version: 
+updated: 2026-11-25
+privacy: 
 ---
 
 ## What it does
 
-Steady is a calm habit tracker. You choose the days each habit is due, check in with one tap and watch your streaks grow. It is a wellness tool for building routines, not a medical app.
+Steady is a calm habit tracker. You choose the days each habit is due, check in with one tap and watch your streaks grow. You can also give a habit an optional daily goal in minutes and time it with a built-in timer. It is a wellness tool for building routines, not a medical app.
 
 - No account and no cloud sync. Your habits and check-ins are stored on your phone.
 - Streaks count only the days you schedule, so a planned day off does not break them.
@@ -34,7 +34,8 @@ Steady asks to send notifications only when you turn on a reminder.
 2. Under **Name**, type what you want to do, up to 40 characters.
 3. Pick an **Icon** and a **Color**.
 4. Under **Schedule**, tap **Daily**, **Weekdays** or **Weekends**, or tap single days to turn them on or off. At least one day must stay on.
-5. Tap **Save**. Tap **Cancel** to leave without saving.
+5. If you want, set a daily goal in minutes. You can leave it out.
+6. Tap **Save**. Tap **Cancel** to leave without saving.
 
 ![New Habit form with Name, Icon, Color and Schedule, and Save in the top right](shots/02-new-habit.png)
 
@@ -45,6 +46,14 @@ Steady asks to send notifications only when you turn on a reminder.
 3. Watch the card at the top count up, for example "2 of 3 done", until it says "All done for today".
 
 Your streak shows under each habit name. Habits that are not scheduled today are listed under **Not due today** with their days.
+
+## Time a habit in minutes
+
+1. Give the habit a daily goal in minutes when you create or edit it.
+2. Use the built-in timer to start, pause and finish a session.
+3. When you reach your goal, the day counts as done.
+
+Minutes done show on **Today**, and your total minutes show in **Stats**. One-tap check-in still works for every habit.
 
 ## Set a reminder
 
@@ -72,11 +81,13 @@ The free version shows this month and last month.
 2. **Last 7 days** and **Last 30 days** show how many scheduled check-ins you completed, as a percentage.
 3. Under **Streaks**, each habit shows its current streak and its best one. Tap a habit to open it.
 
+Your total minutes for timed habits also show here.
+
 ![Stats tab with Last 7 days, Last 30 days and the Streaks list](shots/04-stats.png)
 
 ## Edit, archive or delete a habit
 
-1. Tap a habit, then tap **Edit** to change its name, icon, color, schedule or reminder. Tap **Save**.
+1. Tap a habit, then tap **Edit** to change its name, icon, color, schedule, daily goal or reminder. Tap **Save**.
 2. Tap **Archive habit** to hide it from Today and Stats and keep its check-ins. To bring it back, open **Settings** and tap **Restore** under **Archived habits**.
 3. Tap **Delete habit** to remove the habit and all its check-ins for good. This cannot be undone.
 
@@ -87,7 +98,7 @@ The free version shows this month and last month.
 3. Under **Privacy**, you can turn on **Do not sell or share my personal information**.
 4. **Version** is at the bottom, under **About**.
 
-Steady follows the light or dark theme set on your phone.
+Steady follows the light or dark theme set on your phone. On Android, Settings also has a page with more apps from us.
 
 ![Settings tab with the Premium card, Appearance colors, Data and Privacy](shots/05-settings.png)
 

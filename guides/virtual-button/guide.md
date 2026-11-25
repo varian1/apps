@@ -4,18 +4,18 @@ name: Virtual Buttons
 tagline: On-screen power, volume, lock, back and home buttons for Android phones
 project: virtual-button
 package: io.github.varian1.virtualbuttons
-version: 1.0.0
-updated: 2026-11-17
-privacy: 
+version: 1.1.1
+updated: 2026-11-25
+privacy: https://varian1.github.io/virtual-buttons/privacy.html
 ---
 
 ## What it does
 
 Virtual Buttons puts your phone's buttons on the screen. If your power or volume button is broken, worn out or hard to press, tap the button on screen instead. You also get one-tap Back, Home and Recent apps.
 
-- Power menu, lock screen, volume up and volume down
+- Power menu, lock screen, volume up, volume down and a volume panel
 - Screenshot and screen recording without pressing two buttons
-- Home, Back, Recent apps, notifications and Quick Settings
+- Home, Back, Recent apps, notifications, Quick Settings, flashlight and rotation lock
 - A floating bubble over other apps, plus Quick Settings tiles
 
 ## Get started
@@ -34,7 +34,9 @@ The app needs Android 9 or newer.
 1. Open the **Buttons** tab.
 2. Tap the button you need, for example **Lock screen** or **Volume up**.
 
-The buttons are **Power menu**, **Lock screen**, **Screenshot**, **Screen recording**, **Volume up**, **Volume down**, **Home**, **Back**, **Recent apps**, **Notifications** and **Quick Settings**.
+The buttons are **Power menu**, **Lock screen**, **Screenshot**, **Screen recording**, **Volume up**, **Volume down**, **Volume panel**, **Home**, **Back**, **Recent apps**, **Notifications**, **Quick Settings**, **Flashlight** and **Rotation lock**.
+
+**Volume panel** opens Android's volume sliders for ring, alarm, call and media volume. **Flashlight** turns the torch on or off. **Rotation lock** turns auto-rotate on or off. It needs permission to modify system settings, so allow it when asked.
 
 If a button does not work, the app shows **Action unavailable**. Check that both cards under **Setup** show **Enabled** and try again.
 
@@ -47,7 +49,9 @@ If a button does not work, the app shows **Action unavailable**. Check that both
 3. Allow the screen capture when Android asks.
 4. Stop the recording from its notification.
 
-The video is saved to the Movies folder on your phone. It has no sound.
+The video is saved to the Movies folder on your phone. Free recordings have no sound. With Premium, turn on **Record microphone sound** to add sound from the microphone.
+
+To send the video to someone, tap **Share last recording**.
 
 ## Use the floating button
 
@@ -63,22 +67,30 @@ The bubble hides while a screenshot is taken, so it is not in the picture.
 
 1. Swipe down from the top of the screen to open Quick Settings.
 2. Open the panel's edit mode.
-3. Drag the Lock screen or Screenshot tile from Virtual Buttons into your panel.
+3. Drag the Lock screen, Screenshot, Power menu or Screen record tile from Virtual Buttons into your panel.
 
 ## Customize the floating menu
 
-This needs Premium.
-
 1. Open the **Customize** tab.
 2. Choose which buttons appear in the floating menu and put them in the order you want.
-3. Set the bubble size, **Colour** and transparency.
-4. Tap **Reset to standard** to go back to the original layout.
+3. Under **Bubble gestures**, pick the action for **Double-tap**, or choose **None**.
+4. With Premium, pick a second action for **Long press · Premium**.
+5. With Premium, tap **Add an app** to put up to four of your apps in the floating menu.
+6. With Premium, choose a light or high-contrast **Panel theme · Premium**. The dark theme is free.
+7. With Premium, set the bubble size, **Colour · Premium** and transparency.
+8. Tap **Reset to standard** to go back to the original layout.
 
 ![The Customize tab with bubble and menu options](shots/03-customize.png)
 
+## Share the app
+
+1. Open the **Premium & info** tab.
+2. Tap **Share this app**.
+3. Turn on **Include Play Store link** if you want to send the link too.
+
 ## Premium
 
-Premium removes ads. It also lets you choose and reorder the buttons in the floating menu, and set the bubble size, colour and transparency.
+Premium removes ads. It also adds a long-press action for the bubble, microphone sound in screen recordings, app shortcuts in the floating menu, light and high-contrast panel themes, and the bubble size, colour and transparency.
 
 It is a one-time purchase, not a subscription.
 
@@ -92,7 +104,7 @@ It is a one-time purchase, not a subscription.
 Yes. Tap **Lock screen** to turn the screen off, or **Power menu** to power off, restart or make an emergency call.
 
 **Do screen recordings have sound?**
-No. Screen recordings are video only.
+Free recordings are video only. With Premium, you can turn on **Record microphone sound**. Sound from other apps is not recorded.
 
 **Why does the app need the Accessibility service?**
 It uses it only to press the buttons you tap and to show the floating button. It does not read your screen or what you type.
@@ -105,4 +117,4 @@ No. Virtual Buttons is for Android only.
 
 ## Privacy
 
-Virtual Buttons has no account and no server, and your settings and recordings stay on your phone. The free version shows ads from Google AdMob, which may collect device identifiers, approximate location and usage data. Open **Premium & info** and tap **Privacy policy** to read the full policy, or **Ad privacy choices** to change your ad settings.
+Virtual Buttons has no account and no server, and your settings and recordings stay on your phone. The microphone is used only if you turn on sound in recordings, and only while recording. The free version shows ads from Google AdMob, which may collect device identifiers, approximate location and usage data. Open **Premium & info** and tap **Privacy policy** to read the full policy, or **Ad privacy choices** to change your ad settings. You can also read the [privacy policy](https://varian1.github.io/virtual-buttons/privacy.html) online.

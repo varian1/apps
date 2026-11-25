@@ -5,7 +5,7 @@ tagline: Scan and create QR codes and barcodes. Private, on-device, history and 
 project: QRBarcode and toolkit
 package: com.varian1.qrtoolkit
 version: 1.0.0
-updated: 2026-11-21
+updated: 2026-11-25
 privacy: https://varian1.github.io/qr-barcode-toolkit/privacy.html
 ---
 
@@ -34,6 +34,7 @@ QR & Barcode Toolkit scans QR codes and barcodes with your camera or from a phot
 4. In the dark, tap the flashlight button. To read a code from a photo, tap the picture button and pick the photo.
 5. **Scan Result** opens when the code is read. It shows the kind of content, such as **Website**, **Wi-Fi**, **Contact** or **Product**.
 6. Tap **Copy content** or **Share as text**, or tap **Scan another** to go back to the camera.
+7. To make a new code from it, tap **Edit / reuse**. **Create** opens with the fields filled in. Change what you need and save the new code.
 
 ![The scanner with the QR Code and Barcode switch, the frame, and the picture and flashlight buttons](shots/06-scan.png)
 
@@ -71,7 +72,7 @@ Options with a lock are part of Premium.
 ## Create a barcode
 
 1. Tap **Create** and choose **Barcode**.
-2. Under **Format**, pick **EAN-13**, **EAN-8**, **UPC-A**, **Code 128**, **Code 39** or **ITF-14**.
+2. Under **Format**, pick **EAN-13**, **EAN-8**, **UPC-A**, **UPC-E**, **Code 128**, **Code 39**, **Code 93**, **Codabar** or **ITF-14**.
 3. Type the **Value**. The line below the field says what the format accepts. For product codes, the app adds the check digit if you leave it out.
 4. Fill in **Title (optional)** if you want a name for it.
 5. Tap **Save to history**, **Share** or **Save image**.
@@ -96,6 +97,7 @@ Options with a lock are part of Premium.
 4. Turn on **Keep Wi-Fi passwords in history** only if you want them saved. It is off by default.
 5. Tap **Language** to pick the app's language. By default the app follows your phone's language.
 6. Tap **Clear all history** and then **Delete all** to remove every scan and created code, including favorites.
+7. Under **About**, tap **More apps from us** to see other apps from the same maker.
 
 ![Settings with the Preferences, Privacy and About sections](shots/08-settings.png)
 
