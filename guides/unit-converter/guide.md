@@ -4,8 +4,8 @@ name: Unit Converter
 tagline: Offline unit converter: length, weight, temperature, cups, MPG & 90+ more units
 project: all-in-one-unit-converter
 package: io.github.varian1.unitconverter
-version: 1.2
-updated: 2026-11-17
+version: 1.2.3
+updated: 2026-11-25
 privacy: https://varian1.github.io/all-in-one-unit-converter/privacy.html
 ---
 
@@ -34,14 +34,18 @@ Unit Converter changes a measurement from one unit to another. Type a value, pic
 4. Read the answer under **RESULT**.
 5. Tap **⇄** to swap the two units, or **Clear** to empty the value.
 
+A result in feet also shows feet and inches, for example 5 ft 6.9 in. A result in stone also shows stone and pounds, for example 11 st 4.7 lb. You still type the value as one number.
+
 ![Choose a category sheet listing Length, Weight & Mass, Temperature, Area, Volume and more](shots/02-categories.png)
 
-## Copy a result
+## Copy or share a result
 
 1. Tap **Copy result**. The button changes to **Copied**.
 2. Paste it into any app. The copied text holds both sides, for example "5 mi = 8.04672 km".
 
 Each result you copy is also saved to **History**.
+
+To send a result as text, tap **Share** next to **Copy result** and choose an app on your phone.
 
 ## Browse the categories
 

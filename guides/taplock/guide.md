@@ -4,8 +4,8 @@ name: TapLock
 tagline: Lock your phone with one tap. Fingerprint and face unlock keep working.
 project: LOCKAPPONLY
 package: io.github.varian1.screenlock
-version: 1.1.0
-updated: 2026-11-17
+version: 1.2.0
+updated: 2026-11-25
 privacy: https://varian1.github.io/LockAppOnlyWeb/privacy.html
 ---
 
@@ -17,6 +17,13 @@ TapLock puts one big **Lock** button on your screen. Tap it and your phone locks
 - Device Admin lock is a second way to lock that works without Accessibility.
 - One screen, one button. No account and no sign-in.
 - Free with ads.
+
+## What's new
+
+- Tell a friend: share TapLock from **Lock setup**, with or without the store link.
+- TapLock comes in 31 languages. Pick yours on **Lock setup**, or keep your phone's language.
+- Arabic, Urdu and Hebrew are shown right to left.
+- No more full-screen ads. Tapping **Lock** always locks right away.
 
 ## Get started
 
@@ -78,6 +85,15 @@ With this way of locking, Android asks for your PIN, pattern or password the nex
 ![The language picker with the list of languages](shots/06-language.png)
 
 Arabic, Urdu and Hebrew are shown right to left. On Android 13 or newer, you can also change TapLock's language in Android's app language settings.
+
+## Tell a friend about TapLock
+
+1. On the home screen, tap the settings icon to open **Lock setup**.
+2. Go to the **Tell a friend** part.
+3. Choose whether to add the store link to your message.
+4. Share TapLock with the app you pick on your phone.
+
+![The Tell a friend part of Lock setup](shots/07-tell-a-friend.png)
 
 ## Turn a lock method off or uninstall
 

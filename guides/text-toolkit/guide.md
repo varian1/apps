@@ -5,7 +5,7 @@ tagline: Count words, change case, clean, sort and compare text offline on your 
 project: text-toolkit
 package: io.github.varian1.texttoolkit
 version: 1.0
-updated: 2026-11-18
+updated: 2026-11-25
 privacy: https://varian1.github.io/text-toolkit/privacy.html
 ---
 
@@ -112,7 +112,7 @@ Clean, Lines, Reverse, Encode and Format share one result card, and it is cleare
 Yes. The app uses the light or dark theme set on your phone.
 
 **Where are the licenses?**
-Scroll to the bottom and tap **Open-source licenses**. **Privacy policy** is next to it.
+Scroll to the bottom and tap **Open-source licenses**. **Privacy policy** is next to it. On Android, **More apps from us** there shows our other apps.
 
 ## Privacy
 

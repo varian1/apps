@@ -4,8 +4,8 @@ name: Photo & Image Toolkit
 tagline: Compress, resize, crop, convert, collage and remove backgrounds on your phone.
 project: photo-image-toolkit
 package: io.github.varian1.photoimagetoolkit
-version: 1.0.0
-updated: 2026-11-17
+version: 1.0.4
+updated: 2026-11-25
 privacy: https://varian1.github.io/photoimagetoolkit/privacy.html
 ---
 
@@ -17,6 +17,11 @@ Photo & Image Toolkit puts five everyday photo tools in one app: compress, resiz
 - The app only sees the photos you pick.
 - Location and camera details are removed from the copies it saves.
 - Free with ads. A one-time Premium purchase removes ads and adds batch processing.
+
+## What's new
+
+- Compress: view the before and after at 100% to spot JPEG artifacts.
+- Settings: **More apps from us** lists our other apps.
 
 ## Get started
 
@@ -38,13 +43,15 @@ Photo & Image Toolkit puts five everyday photo tools in one app: compress, resiz
 
 ![Compress screen: a photo before and after, 358 KB reduced to 92.9 KB, with Save and Share](shots/02-compress.png)
 
+You can view the before and after at 100% to spot JPEG artifacts.
+
 If the target size cannot be reached without heavy quality loss, the app tells you and gives you the smallest result.
 
 ## Resize, crop, rotate or flip
 
 1. Tap **Resize & Crop**, then **Select photo**.
-2. Under **Crop ratio**, keep **Free** or pick a fixed shape such as **1:1**, **4:5** or **16:9**.
-3. Drag inside the crop box to move it. Drag the blue dot in its corner to make it larger or smaller.
+2. Under **Crop ratio**, keep **Free** or pick a fixed shape such as **1:1**, **4:5** or **16:9**. You can also crop to an exact size in pixels.
+3. Drag inside the crop box to move it. Drag the handles on its corners and edges to make it larger or smaller.
 4. Tap **⟲ Left** or **⟳ Right** to rotate the photo. Tap a **Flip** button to mirror it.
 5. Under **Resize**, choose **Original** to keep the size, **Pixels** to type a width, **%** to scale by percent, or **Presets** for ready-made sizes for social media and documents.
 6. Under **Format**, choose **JPEG**, **PNG** or **WebP**.
@@ -98,6 +105,7 @@ The cut-out is made on your device. The first time you use this tool, your phone
 1. On the home screen, tap **Settings** in the top right.
 2. Under **Premium**, see whether you are on **Free** or **Premium**, tap **Upgrade to Premium**, or tap **Restore purchases**.
 3. Under **Privacy**, open the **Privacy Policy** or the **Terms of Use**. In some countries you also see **Ad privacy choices**, where you can change your ad consent.
+4. Tap **More apps from us** to see our other apps.
 
 ![Settings screen with the Premium status, Restore purchases and the privacy links](shots/07-settings.png)
 
@@ -130,7 +138,7 @@ The free version saves photos up to 4096 px on the longest side, and cut-outs up
 Not on Android. You can open HEIC photos and convert them to JPEG, PNG or WebP.
 
 **Background removal shows an error. What can I do?**
-This tool needs Google Play services. Check that you are online and that Google Play is set up on your phone, then try again.
+This tool needs Google Play services. Check that you are online and that Google Play is set up on your phone, then tap **Retry**.
 
 ## Privacy
 
