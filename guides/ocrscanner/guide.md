@@ -4,8 +4,8 @@ name: OCRScanner
 tagline: Scan documents to editable text on your device. Search, copy and share as PDF.
 project: OCRScanner
 package: io.github.varian1.ocrscanner
-version: 1.2.0
-updated: 2026-11-21
+version: 1.2.5
+updated: 2026-11-25
 privacy: https://varian1.github.io/ocrscanner/privacy.html
 ---
 
@@ -15,8 +15,8 @@ OCRScanner photographs a paper page, straightens it and reads the text on your p
 
 - Text recognition runs on your device and works without internet.
 - No account. Your scans stay on your phone and are never uploaded.
-- Import a PDF, or share images from other apps on Android.
-- Free with ads. A one-time Premium purchase removes ads and adds more languages.
+- Import a PDF, or share images from other apps.
+- Free with ads. A one-time Premium purchase removes ads and adds tools for working with several scans at once.
 
 ## Get started
 
@@ -46,13 +46,18 @@ OCRScanner reads up to 20 pages of one PDF, or 50 with Premium. Every page is re
 2. On **Review**, check the pages. If the PDF is longer than the limit, Review tells you how many pages were left out.
 3. Tap **Recognize text**.
 
+If you pick several PDFs without Premium, only the first one is imported, and Review tells you so.
+
+With Premium, you can pick up to 10 PDFs at once. Each PDF becomes its own scan, named after its file, and is read without the Review step. A PDF that cannot be read is skipped and listed by name when the import ends.
+
 ## Share images from other apps
 
-This works on Android.
+This works on Android and iPhone.
 
 1. In your gallery or another app, select up to 20 images and tap share.
 2. Choose OCRScanner.
-3. Unlock the app if **App lock** is on. The images open on **Review** as a new scan.
+3. On iPhone, the images are saved and you are asked to open OCRScanner. They open the next time you open the app.
+4. Unlock the app if **App lock** is on. The images open on **Review** as a new scan.
 
 If you have unsaved pages open, the app asks before it replaces them.
 
@@ -87,6 +92,17 @@ To see only the scans with one tag, tap that tag under the search field. Search 
 
 ![Share or export sheet with PDF, Text file and Page image](shots/05-share.png)
 
+You can also add a link to the app when you share. This is optional.
+
+## Work with several scans at once
+
+1. On **Scans**, select the scans you want. They are used in the order you select them.
+2. Tap **Export** and choose **PDF**, **Text file** or **Page images**. Two or more scans go into one PDF or text file.
+3. Or tap **⋯** and choose **Combine into one scan**. Then choose **Keep the originals** or **Delete the originals**.
+4. Or tap **Recognize text again**, pick one text language and confirm. Any text you edited is replaced.
+
+With one scan selected, these actions are free. With two or more, they need Premium.
+
 ## Rename, tag and delete
 
 1. Open a scan and tap **⋯**.
@@ -105,9 +121,10 @@ To see only the scans with one tag, tap that tag under the search field. Search 
 
 1. On **Scans**, tap the settings icon in the top right.
 2. Turn on **App lock** to require your fingerprint, face or screen lock before your scans open.
-3. Under **Text language (OCR)**, pick the script of your documents. **Latin** covers English, Spanish, French, German, Indonesian and more. The app suggests the one your phone's language uses.
+3. Under **Text language (OCR)**, pick the script of your documents. **Latin** covers English, Spanish, French, German, Indonesian and more. Chinese, Japanese and Korean are free too, and so are Hindi and other Devanagari text on Android. The app suggests the one your phone's language uses.
 4. Tap **App language** to use the app in a different language from your phone.
 5. Choose **Image quality** (Balanced or Full) and the **Theme** (System, Light or Dark).
+6. Tap **More apps from us** to see other apps from the same developer.
 
 ![Settings: Premium, App lock, Text language (OCR) and Image quality](shots/06-settings.png)
 
@@ -116,9 +133,12 @@ To see only the scans with one tag, tap that tag under the search field. Search 
 Premium is one payment, not a subscription. Open **Settings** and tap **See Premium**. It gives you:
 
 - No ads.
-- Chinese, Japanese and Korean text, plus Hindi and other Devanagari text on Android.
 - Merging several scans into one PDF or text file.
+- Combining several scans into one scan.
 - Importing longer PDFs: up to 50 pages instead of 20.
+- Importing up to 10 PDFs at once.
+- Sending the page images of several scans at once.
+- Reading several scans again at once in one text language.
 
 If you bought Premium before, tap **Restore purchase** on the Premium screen.
 
@@ -135,6 +155,9 @@ Retake the photo in good light with the page flat, try the **Magic** or **B&W** 
 
 **Can it read handwriting?**
 It is made for printed text. Handwriting is often read wrongly.
+
+**Which languages can it read?**
+Printed text in Latin-alphabet languages, Chinese, Japanese and Korean, plus Hindi and other Devanagari text on Android. All of them are free.
 
 ## Privacy
 
