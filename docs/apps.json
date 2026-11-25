@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25T12:27:28.708Z",
+  "updated": "2026-11-25T12:55:26.792Z",
   "languages": [
     "en",
     "id",
@@ -726,8 +726,8 @@
     {
       "slug": "internet-speed-test",
       "package": "io.github.varian1.speedtest",
-      "live": false,
-      "play": null,
+      "live": true,
+      "play": "https://play.google.com/store/apps/details?id=io.github.varian1.speedtest&referrer=utm_source%3Down_apps%26utm_medium%3Dcross_promo%26utm_campaign%3Dinternet-speed-test",
       "icon": null,
       "name": {
         "en": "Internet Speed Test",
